@@ -1,1 +1,5 @@
 # Criando-maquinas-Virtuais-Azure
+
+Criar máquinas virtuais (VMs) na Azure envolve provisionar instâncias de computação na nuvem para rodar aplicações, sistemas operacionais e outros serviços, como se fossem servidores físicos. Na Azure, o processo começa escolhendo a imagem do sistema operacional (como Windows ou Linux), configurando o tamanho da VM (especificando CPU, memória e armazenamento), e definindo as configurações de rede, como endereços IP e redes virtuais.
+
+A plataforma permite que você selecione tipos de máquinas virtuais conforme a necessidade do seu projeto, com opções para cargas de trabalho que exigem mais desempenho ou opções mais econômicas. A criação também inclui a escolha de uma chave de segurança ou senha para acesso, bem como a configuração de opções como backup e monitoramento. A Azure ainda oferece recursos adicionais como escalabilidade, permitindo que você ajuste a capacidade da VM conforme a demanda, e ferramentas para gerenciar o ciclo de vida da VM, incluindo a inicialização, parada e exclusão.
